@@ -2,10 +2,11 @@
 // 05/23/2023
 // C++ Primer Plus 6th Ed
 // CH 7 Program Ex 8
-// Version 1.2
+// Version 1.3
 
 // Updates:
 // +gitHub remote repository
+// +gitclone and pushclone
 
 
 // Future goals:
