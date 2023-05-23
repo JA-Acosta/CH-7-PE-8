@@ -1,13 +1,11 @@
 // JAAR
-// 05/22/2023
+// 05/23/2023
 // C++ Primer Plus 6th Ed
 // CH 7 Program Ex 8
-// Version 1.1
+// Version 1.2
 
 // Updates:
-// replace expense array with structure.
-// +total_expense in structure
-// +average_expenditure double in structure.
+// +gitHub remote repository
 
 
 // Future goals:
@@ -52,7 +50,7 @@ int main()
 
 
 // TODO: Update function so it verifies that a double was inputted.
-// Prompts the user to input the expenditure for each season and uptate the
+// Prompts the user to input the expenditure for each season and update the
 // total annual expenditure.
 // !assume the user will input a double each time;
 // Param: double* expense
